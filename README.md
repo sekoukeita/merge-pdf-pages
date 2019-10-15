@@ -34,7 +34,7 @@ You can still run this program even if you don't have python installed on your c
 ```
 3. Run pyinstaller on the script:
 ```
-    pyinstaller myJobFinder.py
+    pyinstaller pdfsCombiner.py
 ```
 4. *pyinstall* will create a folder called *dist* that contains the folder *pdfsCombiner*.
 5. Zip the folder and redistribute it where you want to run the program.
