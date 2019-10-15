@@ -41,7 +41,7 @@ You can still run this program even if you don't have python installed on your c
 6. Unzip the folder, open it,  add the pdf files you want to use and launch the *pdfsCombiner.exe* to run the program.
 
 ## Bonus
-* I am providing the zip file a made for you to test.
+* I am providing the zip file I made for you to test.
 * Download it, unzip the folder, add the pdf files you want to merge pages from and lunch the program.
 * Your new file should be created into the folder.
 
