@@ -43,7 +43,7 @@ You can still run this program even if you don't have python installed on your c
 ## Bonus
 * I am providing the zip file I made for you to test.
 * Download it, unzip the folder, add pdf files you want to merge pages from and lunch the program.
-* Your new file should be created into the folder.
+* Your new file should be created into the folder. Provide the password to open it enventually.
 
 
 ## Author
