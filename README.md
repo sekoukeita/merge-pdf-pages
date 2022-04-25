@@ -6,7 +6,7 @@ I am a beginner and your suggestion and help to improve this program would be re
 1. Launch the program. 
 2. Enter the pdf document's name and eventually the password.
 3. Choose the way you want to select your pages. The program selects them an merges them into a new pdf document.
-5. Name your new pdf file and eventually provide a password you for it.
+5. Name your new pdf file and eventually provide a password you want for it.
 6. The program creates the new pdf file into the working directory.
 
 ## Getting started
